@@ -1,0 +1,4 @@
+@charset "utf-8";
+[data-shop-the-look-popover]>div[role=tooltip]{width:max-content}[data-shop-the-look-popover] li.wt-popover button{height:24px}[data-shop-the-look-popover] .pulse{border-radius:50%;animation:pulse-black 2s 6}[data-shop-the-look-popover] svg.pulse #outline{transition:fill-opacity .3s cubic-bezier(0.175, 0.745, 0.425, 1.11)}[data-shop-the-look-popover] svg.pulse:hover #outline{fill-opacity:.6}@keyframes pulse-black{0%{box-shadow:0 0 0 0 rgba(34,34,34,.4)}70%{box-shadow:0 0 0 10px rgba(0,0,0,0)}100%{box-shadow:0 0 0 0 rgba(0,0,0,0)}}
+@charset "utf-8";
+.etsy-icon{display:inline-block;fill:currentColor;height:24px;vertical-align:middle;width:24px}.etsy-icon svg{display:block}.etsy-icon.icon-smallest{height:12px;width:12px}.etsy-icon.icon-smaller{height:18px;width:18px}.etsy-icon.icon-larger{height:36px;width:36px}.etsy-icon.icon-largest{height:48px;width:48px}
